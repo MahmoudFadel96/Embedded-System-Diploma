@@ -1,0 +1,14 @@
+/*
+ * main.c
+ *
+ *  Created on: May 7, 2022
+ *  Author: Mahmoud Fadel
+ */
+
+#include"stdio.h"
+void main(){
+	char ch;
+	fflush(stdin); fflush(stdout);
+	scanf("Enter a character: %c",&ch);
+	printf("ASCII value of G = %i",ch);
+}
