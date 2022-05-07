@@ -1,5 +1,0 @@
-08:34:17 **** Clean-only build of configuration Debug for project Ex3 ****
-rm -rf main.o main.d Ex3.exe 
-
-08:34:17 Build Finished. 0 errors, 0 warnings. (took 98ms)
-
