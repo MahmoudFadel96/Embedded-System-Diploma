@@ -1,0 +1,17 @@
+/*
+ * main.c
+ *
+ *  Created on: May 7, 2022
+ *  Author: Mahmoud Fadel
+ */
+
+#include"stdio.h"
+void main(){
+
+	int Num;
+	fflush(stdin); fflush(stdout);
+	printf("Enter a integer: ")
+	scanf("%d",&Num);
+	printf("You entered: %d",Num);
+
+}
