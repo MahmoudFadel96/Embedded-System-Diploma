@@ -1,5 +1,0 @@
-09:59:03 **** Clean-only build of configuration Debug for project Ex5 ****
-rm -rf main.o Ex5.exe main.d 
-
-09:59:03 Build Finished. 0 errors, 0 warnings. (took 99ms)
-
